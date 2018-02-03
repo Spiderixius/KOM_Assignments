@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0" name="ServiceImplementation">
+    <implementation class="dk.sdu.kom16.spider.enemy.EnemyControlSystem"/>
+    <implementation class="dk.sdu.kom16.spider.enemy.EntityPlugin"/>
+    <service>
+        <provide interface="dk.sdu.kom16.spider.common.services.IEntityProcessingService"/>
+    </service>
+        <provide interface="dk.sdu.kom16.spider.common.services.IGamePluginService"/>
+    </service>
+</scr:component>

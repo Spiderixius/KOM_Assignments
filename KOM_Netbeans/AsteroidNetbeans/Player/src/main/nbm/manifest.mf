@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: dk/sdu/kom16/spider/player/Bundle.properties
+OpenIDE-Module-Install: dk/sdu/kom16/spider/player/Installer.class
+
