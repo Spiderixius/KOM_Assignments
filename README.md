@@ -1,7 +1,7 @@
 # KOM_Assignments
 Collection of assignments from the [Component-based Software Development](http://fagbesk.sam.sdu.dk/?fag_id=25587) (Danish) course at SDU. Every assignment implemented the same game, Asteroids 2D inspired game. 
 
-## KOM Software Components
+# About
 This course was about basic principles and technologies for component-based software development, which includes recycling, modularity,
 expandability, interfaces, contracts, interaction protocols, components, component enhancements, component framework, component packages,
 component publication, component composition.
